@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx[socks]
+aiosqlite
+openai
+python-dotenv
+anthropic
